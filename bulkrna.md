@@ -17,8 +17,8 @@ Make sure the following tools are installed:
 
 You need two matched files from the same source and version:
 
-Genome FASTA (genome.fa) → DNA sequence \
-Annotation GTF (annotation.gtf) → gene coordinates
+- Genome FASTA (genome.fa) → DNA sequence
+- Annotation GTF (annotation.gtf) → gene coordinates
 
 ## 📜 Full Bash Script
 
